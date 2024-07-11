@@ -14,4 +14,4 @@ Matrix Metadata Leaks? - https://web.archive.org/web/20210202175947/https://serp
 
 ## TG groups but e2ee?
 
-matrix spaces come clone, there is a discord open source alternative but feels dubious.
+matrix spaces come close, there is a discord open source alternative but feels dubious.
