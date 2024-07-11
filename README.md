@@ -1,6 +1,6 @@
 # Secure Messaging
 
-xmpp or matrix? not really. but signal maybe, but how to do tg topics & groups?
+xmpp or matrix? not really. but [signal](https://signal.org/blog/signal-private-group-system/) maybe, but how to do tg topics & groups?
 
 ## Matrix?
 
