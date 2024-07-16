@@ -4,6 +4,12 @@ xmpp or matrix? not [really](https://web.archive.org/web/20211215132539/https://
 
 HOW does even signal EARNS?? How will [SimplexCha](https://github.com/simplex-chat/simplex-chat/blob/stable/docs/SIMPLEX.md#users-own-simplex-network)[t](https://github.com/simplex-chat/simplexmq/blob/stable/protocol/overview-tjr.md#threat-model) earn??? <I don't endorse or like simplexChat rn but may change in the future>
 
+signal was given a 50$ mil loan by [Brian Acton](https://en.m.wikipedia.org/wiki/Signal_Foundation#Signal_Messenger_LLC) for some reason.
+
+donations from ppl because "its bankrupting", recent desktop bug fiasco shown that its not!
+
+Simplex plan to make a "stamp" (not a coin), users will be able to donate to 3rd party hosters wirh legally binding / build verifiable directly.
+
 ## XMPP?
 
 https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/
