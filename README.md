@@ -2,7 +2,7 @@
 
 xmpp or matrix? not [really](https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/). but [signal](https://signal.org/blog/signal-private-group-system/) maybe, but how to do tg topics & groups?
 
-HOW does even signal EARNS?? How will SimplexChat earn??? <I don't endorse or like simplexChat rn but may change in the future>
+HOW does even signal EARNS?? How will [SimplexCha](https://github.com/simplex-chat/simplex-chat/blob/stable/docs/SIMPLEX.md#users-own-simplex-network)[t](https://github.com/simplex-chat/simplexmq/blob/stable/protocol/overview-tjr.md#threat-model) earn??? <I don't endorse or like simplexChat rn but may change in the future>
 
 ## XMPP?
 
