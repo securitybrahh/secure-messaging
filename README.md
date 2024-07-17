@@ -2,6 +2,8 @@
 
 software is free speech, [lobbyin](https://x.com/SimpleXChat/status/1808068417162805302)[g](https://simplex.chat/blog/20240704-future-of-privacy-enforcing-privacy-standards.html) for privacy is what it takes it seems.
 
+so it was nostr after all?
+
 https://signal.org/docs/specifications/doubleratchet/#recovery-from-compromise
 
 xmpp or matrix? not [really](https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/). but [signal](https://signal.org/blog/signal-private-group-system/) maybe, but how to do tg topics & groups?
