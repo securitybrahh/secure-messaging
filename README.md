@@ -1,5 +1,7 @@
 # Secure Messaging
 
+https://divestos.org/pages/messengers
+
 software is free speech, [lobbyin](https://x.com/SimpleXChat/status/1808068417162805302)[g](https://simplex.chat/blog/20240704-future-of-privacy-enforcing-privacy-standards.html) for privacy is what it takes it seems.
 
 so it was nostr after all?
