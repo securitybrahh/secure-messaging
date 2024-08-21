@@ -1,5 +1,7 @@
 dumb servers, Wise clients.
 
+
+
 https://github.com/simplex-chat/simplex-chat/blob/stable/docs/rfcs/2024-04-26-commercial-model.md
 
 https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20240814-simplex-chat-vision-funding-v6-private-routing-new-user-experience.md
@@ -63,3 +65,9 @@ A security analysis comparison between Signal, WhatsApp and Telegram - https://e
 ## Others
 
 https://divestos.org/pages/messengers
+
+https://eylenburg.github.io/im_comparison.htm
+
+## Appendix A
+
+whatsapp/tg people use to serve clients (frontend), slack for backend team
