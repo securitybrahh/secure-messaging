@@ -1,3 +1,5 @@
+dumb servers, Wise clients.
+
 https://github.com/simplex-chat/simplex-chat/blob/stable/docs/rfcs/2024-04-26-commercial-model.md
 
 https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20240814-simplex-chat-vision-funding-v6-private-routing-new-user-experience.md
