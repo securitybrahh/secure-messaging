@@ -62,6 +62,13 @@ matrix spaces come close, there is a discord open source alternative but feels d
 
 A security analysis comparison between Signal, WhatsApp and Telegram - https://eprint.iacr.org/2023/071.pdf
 
+## Tor Lvl Shit?
+
+Also good for LAN messaging.
+
+https://code.briarproject.org/briar/briar/-/wikis/Mailbox-Architecture
+
+
 ## Others
 
 https://divestos.org/pages/messengers
