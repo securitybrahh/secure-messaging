@@ -1,3 +1,8 @@
+fear-mongering privacy narrative pushing donations?
+
+https://x.com/kaepora/status/1811454454232694847
+
+
 dumb servers, Wise clients.
 
 
