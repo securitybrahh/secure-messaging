@@ -1,3 +1,5 @@
+VC shit - get money coz you have distribution, no biz model.
+
 fear-mongering privacy narrative pushing donations?
 
 https://x.com/kaepora/status/1811454454232694847
