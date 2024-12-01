@@ -1,3 +1,13 @@
+
+https://dev.gajim.org/gajim/gajim/-/merge_requests/995
+
+Normal calls are encrypted as PSTN is outdated.
+
+jmp.chat calls are encrypted for all I know.
+
+RCS/imessage maybe encrypted, depends on client implementations and the future.
+
+
 Simplex uses a lot of client RAM. 
 
 servers only relay on SimpleX afaik. so a relay won't cost much to a cloud provider, and can be done on "good will"
