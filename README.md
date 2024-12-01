@@ -1,3 +1,5 @@
+servers only relay on SimpleX afaik. so a relay won't cost much to a cloud provider, and can be done on "good will"
+
 VC shit - get money coz you have distribution, no biz model.
 
 fear-mongering privacy narrative pushing donations?
