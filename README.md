@@ -1,3 +1,5 @@
+https://soatok.blog/2024/07/31/what-does-it-mean-to-be-a-signal-competitor/
+
 https://x.com/securitybrahh/status/1896190092961542194
 
 https://proton.me/support/encryption-lock-meaning
@@ -38,6 +40,8 @@ so it was nostr after all?
 https://signal.org/docs/specifications/doubleratchet/#recovery-from-compromise
 
 xmpp or matrix? not [really](https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/). but [signal](https://signal.org/blog/signal-private-group-system/) maybe, but how to do tg topics & groups?
+
+https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/
 
 HOW does even signal EARNS?? How will [SimplexCha](https://github.com/simplex-chat/simplex-chat/blob/stable/docs/SIMPLEX.md#users-own-simplex-network)[t](https://github.com/simplex-chat/simplexmq/blob/stable/protocol/overview-tjr.md#threat-model) earn??? <I don't endorse or like simplexChat rn but may change in the future>
 
