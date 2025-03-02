@@ -4,7 +4,7 @@ https://proton.me/support/encryption-lock-meaning
 
 https://dev.gajim.org/gajim/gajim/-/merge_requests/995
 
-Normal calls are encrypted as PSTN is outdated.
+Normal calls are not encrypted as PSTN is outdated.
 
 jmp.chat calls are encrypted for the last mile (so it protects you from local attacks)
 
