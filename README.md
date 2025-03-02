@@ -52,6 +52,8 @@ donations from ppl because "its bankrupting", recent desktop bug fiasco shown th
 Simplex plan to make a "stamp" (not a coin), users will be able to donate to 3rd party hosters wirh legally binding / build verifiable directly.
 
 ## XMPP?
+https://soatok.blog/2025/01/20/session-round-2/
+
 
 https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/
 
