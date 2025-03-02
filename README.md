@@ -1,3 +1,4 @@
+https://x.com/securitybrahh/status/1896190092961542194
 
 https://proton.me/support/encryption-lock-meaning
 
@@ -5,10 +6,9 @@ https://dev.gajim.org/gajim/gajim/-/merge_requests/995
 
 Normal calls are encrypted as PSTN is outdated.
 
-jmp.chat calls are encrypted for all I know.
+jmp.chat calls are encrypted for the last mile (so it protects you from local attacks)
 
 RCS/imessage maybe encrypted, depends on client implementations and the future.
-
 
 Simplex uses a lot of client RAM. 
 
