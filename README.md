@@ -12,6 +12,8 @@ jmp.chat calls are encrypted for the last mile (so it protects you from local at
 
 RCS/imessage maybe encrypted, depends on client implementations and the future.
 
+https://9to5mac.com/guides/rcs/
+
 Simplex uses a lot of client RAM. 
 
 servers only relay on SimpleX afaik. so a relay won't cost much to a cloud provider, and can be done on "good will"
