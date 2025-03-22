@@ -14,6 +14,8 @@ RCS/imessage maybe encrypted, depends on client implementations and the future.
 
 https://9to5mac.com/guides/rcs/
 
+https://www.gsma.com/newsroom/article/rcs-encryption-a-leap-towards-secure-and-interoperable-messaging/
+
 Simplex uses a lot of client RAM. 
 
 servers only relay on SimpleX afaik. so a relay won't cost much to a cloud provider, and can be done on "good will"
